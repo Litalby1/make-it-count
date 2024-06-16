@@ -1,0 +1,2002 @@
+[
+    {
+        "prompt": "A photo of three ties on the ground",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "on the ground",
+        "number": "three",
+        "int_number": 3,
+        "seed": 591907
+    },
+    {
+        "prompt": "A photo of ten airplanes",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 669912
+    },
+    {
+        "prompt": "A photo of seven birds",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 847010
+    },
+    {
+        "prompt": "A photo of seven sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 786295
+    },
+    {
+        "prompt": "A photo of seven dogs",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 403504
+    },
+    {
+        "prompt": "A photo of two sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 412937
+    },
+    {
+        "prompt": "A photo of four donuts on the road",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 470332
+    },
+    {
+        "prompt": "A photo of five cows on the ground",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "on the ground",
+        "number": "five",
+        "int_number": 5,
+        "seed": 749109
+    },
+    {
+        "prompt": "A photo of ten cell phones on the road",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "on the road",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 87727
+    },
+    {
+        "prompt": "A photo of seven baseball gloves",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 273590
+    },
+    {
+        "prompt": "A photo of seven sheep on the grass",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the grass",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 452168
+    },
+    {
+        "prompt": "A photo of five backpacks",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 120599
+    },
+    {
+        "prompt": "A photo of ten sheep",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 905528
+    },
+    {
+        "prompt": "A photo of three elephants on the grass",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 946875
+    },
+    {
+        "prompt": "A photo of ten baseball gloves on the ground",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "on the ground",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 211485
+    },
+    {
+        "prompt": "A photo of three elephants",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 417284
+    },
+    {
+        "prompt": "A photo of two clocks",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 672134
+    },
+    {
+        "prompt": "A photo of three clocks",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 994009
+    },
+    {
+        "prompt": "A photo of seven bears on the ground",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "on the ground",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 153463
+    },
+    {
+        "prompt": "A photo of seven sheep",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 480675
+    },
+    {
+        "prompt": "A photo of four bears",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 572932
+    },
+    {
+        "prompt": "A photo of ten birds on the grass",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "on the grass",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 625203
+    },
+    {
+        "prompt": "A photo of four cups on the grass",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 591296
+    },
+    {
+        "prompt": "A photo of ten elephants",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 712957
+    },
+    {
+        "prompt": "A photo of three baseball gloves",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 546547
+    },
+    {
+        "prompt": "A photo of four backpacks",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 961593
+    },
+    {
+        "prompt": "A photo of ten sheep on the road",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the road",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 522868
+    },
+    {
+        "prompt": "A photo of two sports balls on the grass",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 569176
+    },
+    {
+        "prompt": "A photo of two donuts on the grass",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 10176
+    },
+    {
+        "prompt": "A photo of seven sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 783327
+    },
+    {
+        "prompt": "A photo of two donuts on the road",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 37191
+    },
+    {
+        "prompt": "A photo of four clocks on the road",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 631857
+    },
+    {
+        "prompt": "A photo of three sheep on the road",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the road",
+        "number": "three",
+        "int_number": 3,
+        "seed": 611265
+    },
+    {
+        "prompt": "A photo of five baseball gloves",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 740685
+    },
+    {
+        "prompt": "A photo of four cups on the grass",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 838803
+    },
+    {
+        "prompt": "A photo of seven cell phones",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 911102
+    },
+    {
+        "prompt": "A photo of two bears on the grass",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 236024
+    },
+    {
+        "prompt": "A photo of ten cows",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 315042
+    },
+    {
+        "prompt": "A photo of four ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 884950
+    },
+    {
+        "prompt": "A photo of seven airplanes",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 903771
+    },
+    {
+        "prompt": "A photo of ten clocks",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 156048
+    },
+    {
+        "prompt": "A photo of four elephants on the road",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 389359
+    },
+    {
+        "prompt": "A photo of three apples on the ground",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "on the ground",
+        "number": "three",
+        "int_number": 3,
+        "seed": 526834
+    },
+    {
+        "prompt": "A photo of three horses",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 95050
+    },
+    {
+        "prompt": "A photo of five backpacks on the ground",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "on the ground",
+        "number": "five",
+        "int_number": 5,
+        "seed": 794659
+    },
+    {
+        "prompt": "A photo of five clocks on the grass",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "on the grass",
+        "number": "five",
+        "int_number": 5,
+        "seed": 783249
+    },
+    {
+        "prompt": "A photo of seven cars",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 791274
+    },
+    {
+        "prompt": "A photo of five cows",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 561424
+    },
+    {
+        "prompt": "A photo of four cars on the road",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 865805
+    },
+    {
+        "prompt": "A photo of ten sheep on the road",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the road",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 636936
+    },
+    {
+        "prompt": "A photo of five horses on the grass",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "on the grass",
+        "number": "five",
+        "int_number": 5,
+        "seed": 688898
+    },
+    {
+        "prompt": "A photo of four airplanes on the ground",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "on the ground",
+        "number": "four",
+        "int_number": 4,
+        "seed": 190808
+    },
+    {
+        "prompt": "A photo of ten dogs",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 597967
+    },
+    {
+        "prompt": "A photo of four cats",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 68808
+    },
+    {
+        "prompt": "A photo of four cell phones",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 274734
+    },
+    {
+        "prompt": "A photo of two dogs on the road",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 810004
+    },
+    {
+        "prompt": "A photo of three cats",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 849385
+    },
+    {
+        "prompt": "A photo of four ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 171751
+    },
+    {
+        "prompt": "A photo of three donuts on the grass",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 250559
+    },
+    {
+        "prompt": "A photo of four birds",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 870255
+    },
+    {
+        "prompt": "A photo of ten ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 987613
+    },
+    {
+        "prompt": "A photo of ten dogs",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 438164
+    },
+    {
+        "prompt": "A photo of five bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 933192
+    },
+    {
+        "prompt": "A photo of three cups on the ground",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "on the ground",
+        "number": "three",
+        "int_number": 3,
+        "seed": 85584
+    },
+    {
+        "prompt": "A photo of seven sports balls on the grass",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "on the grass",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 849649
+    },
+    {
+        "prompt": "A photo of five cows on the road",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 36888
+    },
+    {
+        "prompt": "A photo of three cups on the road",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "on the road",
+        "number": "three",
+        "int_number": 3,
+        "seed": 481173
+    },
+    {
+        "prompt": "A photo of seven sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 493763
+    },
+    {
+        "prompt": "A photo of three airplanes on the grass",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 34042
+    },
+    {
+        "prompt": "A photo of five cows on the grass",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "on the grass",
+        "number": "five",
+        "int_number": 5,
+        "seed": 660567
+    },
+    {
+        "prompt": "A photo of four elephants",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 734086
+    },
+    {
+        "prompt": "A photo of two apples on the road",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 204444
+    },
+    {
+        "prompt": "A photo of ten cups",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 814135
+    },
+    {
+        "prompt": "A photo of two birds on the grass",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 924085
+    },
+    {
+        "prompt": "A photo of ten sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 734860
+    },
+    {
+        "prompt": "A photo of three cell phones",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 663027
+    },
+    {
+        "prompt": "A photo of seven birds on the ground",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "on the ground",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 130362
+    },
+    {
+        "prompt": "A photo of seven bears on the ground",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "on the ground",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 652253
+    },
+    {
+        "prompt": "A photo of seven backpacks",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 890378
+    },
+    {
+        "prompt": "A photo of ten cups",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 956074
+    },
+    {
+        "prompt": "A photo of four horses",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 308075
+    },
+    {
+        "prompt": "A photo of seven airplanes on the ground",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "on the ground",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 849609
+    },
+    {
+        "prompt": "A photo of seven sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 902228
+    },
+    {
+        "prompt": "A photo of three horses on the grass",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 40039
+    },
+    {
+        "prompt": "A photo of four birds on the road",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 389631
+    },
+    {
+        "prompt": "A photo of three elephants on the road",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "on the road",
+        "number": "three",
+        "int_number": 3,
+        "seed": 373873
+    },
+    {
+        "prompt": "A photo of four cats on the grass",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 46809
+    },
+    {
+        "prompt": "A photo of four donuts on the grass",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 509781
+    },
+    {
+        "prompt": "A photo of two donuts",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 27950
+    },
+    {
+        "prompt": "A photo of three cars on the ground",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "on the ground",
+        "number": "three",
+        "int_number": 3,
+        "seed": 596908
+    },
+    {
+        "prompt": "A photo of ten baseball gloves on the grass",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "on the grass",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 240810
+    },
+    {
+        "prompt": "A photo of seven bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 859197
+    },
+    {
+        "prompt": "A photo of ten elephants on the ground",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "on the ground",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 817255
+    },
+    {
+        "prompt": "A photo of four bowls on the ground",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "on the ground",
+        "number": "four",
+        "int_number": 4,
+        "seed": 440518
+    },
+    {
+        "prompt": "A photo of three airplanes on the grass",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 152767
+    },
+    {
+        "prompt": "A photo of five clocks",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 593507
+    },
+    {
+        "prompt": "A photo of ten cats",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 88113
+    },
+    {
+        "prompt": "A photo of five cows on the road",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 65979
+    },
+    {
+        "prompt": "A photo of four bears",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 811407
+    },
+    {
+        "prompt": "A photo of two backpacks",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 32192
+    },
+    {
+        "prompt": "A photo of two cows on the road",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 719761
+    },
+    {
+        "prompt": "A photo of three bears",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 520748
+    },
+    {
+        "prompt": "A photo of five bears on the road",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 757641
+    },
+    {
+        "prompt": "A photo of two apples",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 369626
+    },
+    {
+        "prompt": "A photo of four bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 376704
+    },
+    {
+        "prompt": "A photo of two clocks on the road",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 364776
+    },
+    {
+        "prompt": "A photo of two elephants",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 870601
+    },
+    {
+        "prompt": "A photo of five apples on the road",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 73943
+    },
+    {
+        "prompt": "A photo of two sheep on the grass",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 218080
+    },
+    {
+        "prompt": "A photo of ten ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 691030
+    },
+    {
+        "prompt": "A photo of three elephants on the grass",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 784310
+    },
+    {
+        "prompt": "A photo of four cars",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 387061
+    },
+    {
+        "prompt": "A photo of five baseball gloves on the ground",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "on the ground",
+        "number": "five",
+        "int_number": 5,
+        "seed": 244174
+    },
+    {
+        "prompt": "A photo of three baseball gloves on the grass",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 476103
+    },
+    {
+        "prompt": "A photo of ten cell phones",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 361181
+    },
+    {
+        "prompt": "A photo of four dogs on the road",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 136480
+    },
+    {
+        "prompt": "A photo of five clocks",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 218229
+    },
+    {
+        "prompt": "A photo of seven horses",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 496364
+    },
+    {
+        "prompt": "A photo of five birds on the road",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 982648
+    },
+    {
+        "prompt": "A photo of seven cows on the ground",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "on the ground",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 666805
+    },
+    {
+        "prompt": "A photo of two donuts",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 621825
+    },
+    {
+        "prompt": "A photo of ten backpacks on the grass",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "on the grass",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 559129
+    },
+    {
+        "prompt": "A photo of ten sheep on the grass",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the grass",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 394882
+    },
+    {
+        "prompt": "A photo of seven cars on the grass",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "on the grass",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 843464
+    },
+    {
+        "prompt": "A photo of five bears",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 533025
+    },
+    {
+        "prompt": "A photo of three cell phones",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 791526
+    },
+    {
+        "prompt": "A photo of two apples",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 390554
+    },
+    {
+        "prompt": "A photo of ten donuts",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 48502
+    },
+    {
+        "prompt": "A photo of seven airplanes on the ground",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "on the ground",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 21547
+    },
+    {
+        "prompt": "A photo of ten baseball gloves",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 736278
+    },
+    {
+        "prompt": "A photo of two dogs",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 440644
+    },
+    {
+        "prompt": "A photo of five ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 436993
+    },
+    {
+        "prompt": "A photo of seven ties on the grass",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "on the grass",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 619788
+    },
+    {
+        "prompt": "A photo of seven cups",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 667907
+    },
+    {
+        "prompt": "A photo of two ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 260108
+    },
+    {
+        "prompt": "A photo of two cows",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 387193
+    },
+    {
+        "prompt": "A photo of two horses on the ground",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "on the ground",
+        "number": "two",
+        "int_number": 2,
+        "seed": 60667
+    },
+    {
+        "prompt": "A photo of seven cell phones",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 8836
+    },
+    {
+        "prompt": "A photo of five airplanes",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 763552
+    },
+    {
+        "prompt": "A photo of two cars on the road",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 213899
+    },
+    {
+        "prompt": "A photo of five bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 998601
+    },
+    {
+        "prompt": "A photo of ten cups",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 996428
+    },
+    {
+        "prompt": "A photo of two clocks",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 113891
+    },
+    {
+        "prompt": "A photo of four apples",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 585295
+    },
+    {
+        "prompt": "A photo of four airplanes on the grass",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 834306
+    },
+    {
+        "prompt": "A photo of ten apples on the road",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "on the road",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 194385
+    },
+    {
+        "prompt": "A photo of two horses on the road",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 183225
+    },
+    {
+        "prompt": "A photo of two elephants",
+        "object": "elephant",
+        "object_plural": "elephants",
+        "object_id": 20,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 475473
+    },
+    {
+        "prompt": "A photo of five apples",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 548770
+    },
+    {
+        "prompt": "A photo of ten cats",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 484898
+    },
+    {
+        "prompt": "A photo of three birds on the grass",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 506764
+    },
+    {
+        "prompt": "A photo of seven horses on the road",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "on the road",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 1932
+    },
+    {
+        "prompt": "A photo of three sheep on the road",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "on the road",
+        "number": "three",
+        "int_number": 3,
+        "seed": 648791
+    },
+    {
+        "prompt": "A photo of three cars",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 229359
+    },
+    {
+        "prompt": "A photo of two birds",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 805971
+    },
+    {
+        "prompt": "A photo of four cats on the road",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "on the road",
+        "number": "four",
+        "int_number": 4,
+        "seed": 571692
+    },
+    {
+        "prompt": "A photo of seven cats on the road",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "on the road",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 740602
+    },
+    {
+        "prompt": "A photo of two cars on the grass",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 711121
+    },
+    {
+        "prompt": "A photo of five bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 243649
+    },
+    {
+        "prompt": "A photo of five bowls on the road",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 293693
+    },
+    {
+        "prompt": "A photo of four baseball gloves on the grass",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 126701
+    },
+    {
+        "prompt": "A photo of three baseball gloves",
+        "object": "baseball glove",
+        "object_plural": "baseball gloves",
+        "object_id": 35,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 700961
+    },
+    {
+        "prompt": "A photo of three backpacks",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 269039
+    },
+    {
+        "prompt": "A photo of three airplanes",
+        "object": "airplane",
+        "object_plural": "airplanes",
+        "object_id": 4,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 933821
+    },
+    {
+        "prompt": "A photo of two sports balls on the road",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "on the road",
+        "number": "two",
+        "int_number": 2,
+        "seed": 466180
+    },
+    {
+        "prompt": "A photo of two cats",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 264878
+    },
+    {
+        "prompt": "A photo of five apples",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 913622
+    },
+    {
+        "prompt": "A photo of three cars on the grass",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 624332
+    },
+    {
+        "prompt": "A photo of seven ties",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 73878
+    },
+    {
+        "prompt": "A photo of ten backpacks on the road",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "on the road",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 559560
+    },
+    {
+        "prompt": "A photo of three bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 555939
+    },
+    {
+        "prompt": "A photo of ten cats on the grass",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "on the grass",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 71400
+    },
+    {
+        "prompt": "A photo of three cars",
+        "object": "car",
+        "object_plural": "cars",
+        "object_id": 2,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 303764
+    },
+    {
+        "prompt": "A photo of four dogs",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 140950
+    },
+    {
+        "prompt": "A photo of five cell phones on the ground",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "on the ground",
+        "number": "five",
+        "int_number": 5,
+        "seed": 220492
+    },
+    {
+        "prompt": "A photo of five horses on the road",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 665420
+    },
+    {
+        "prompt": "A photo of ten clocks on the ground",
+        "object": "clock",
+        "object_plural": "clocks",
+        "object_id": 74,
+        "scene": "on the ground",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 816369
+    },
+    {
+        "prompt": "A photo of five donuts on the road",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 306450
+    },
+    {
+        "prompt": "A photo of five cups",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 595835
+    },
+    {
+        "prompt": "A photo of two apples on the grass",
+        "object": "apple",
+        "object_plural": "apples",
+        "object_id": 47,
+        "scene": "on the grass",
+        "number": "two",
+        "int_number": 2,
+        "seed": 129287
+    },
+    {
+        "prompt": "A photo of five dogs on the road",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "on the road",
+        "number": "five",
+        "int_number": 5,
+        "seed": 420706
+    },
+    {
+        "prompt": "A photo of three cell phones on the grass",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "on the grass",
+        "number": "three",
+        "int_number": 3,
+        "seed": 586796
+    },
+    {
+        "prompt": "A photo of seven dogs on the road",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "on the road",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 662816
+    },
+    {
+        "prompt": "A photo of three horses",
+        "object": "horse",
+        "object_plural": "horses",
+        "object_id": 17,
+        "scene": "",
+        "number": "three",
+        "int_number": 3,
+        "seed": 435271
+    },
+    {
+        "prompt": "A photo of seven sports balls",
+        "object": "sports ball",
+        "object_plural": "sports balls",
+        "object_id": 32,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 512604
+    },
+    {
+        "prompt": "A photo of three bowls on the road",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "on the road",
+        "number": "three",
+        "int_number": 3,
+        "seed": 516654
+    },
+    {
+        "prompt": "A photo of four bears on the grass",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "on the grass",
+        "number": "four",
+        "int_number": 4,
+        "seed": 465548
+    },
+    {
+        "prompt": "A photo of two bowls",
+        "object": "bowl",
+        "object_plural": "bowls",
+        "object_id": 45,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 781408
+    },
+    {
+        "prompt": "A photo of two bears",
+        "object": "bear",
+        "object_plural": "bears",
+        "object_id": 21,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 930438
+    },
+    {
+        "prompt": "A photo of five ties on the grass",
+        "object": "tie",
+        "object_plural": "ties",
+        "object_id": 27,
+        "scene": "on the grass",
+        "number": "five",
+        "int_number": 5,
+        "seed": 372665
+    },
+    {
+        "prompt": "A photo of four birds",
+        "object": "bird",
+        "object_plural": "birds",
+        "object_id": 14,
+        "scene": "",
+        "number": "four",
+        "int_number": 4,
+        "seed": 931707
+    },
+    {
+        "prompt": "A photo of four donuts on the ground",
+        "object": "donut",
+        "object_plural": "donuts",
+        "object_id": 54,
+        "scene": "on the ground",
+        "number": "four",
+        "int_number": 4,
+        "seed": 69685
+    },
+    {
+        "prompt": "A photo of ten cats on the grass",
+        "object": "cat",
+        "object_plural": "cats",
+        "object_id": 15,
+        "scene": "on the grass",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 719634
+    },
+    {
+        "prompt": "A photo of four dogs on the ground",
+        "object": "dog",
+        "object_plural": "dogs",
+        "object_id": 16,
+        "scene": "on the ground",
+        "number": "four",
+        "int_number": 4,
+        "seed": 414308
+    },
+    {
+        "prompt": "A photo of two backpacks",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "",
+        "number": "two",
+        "int_number": 2,
+        "seed": 43178
+    },
+    {
+        "prompt": "A photo of seven sheep",
+        "object": "sheep",
+        "object_plural": "sheep",
+        "object_id": 18,
+        "scene": "",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 3922
+    },
+    {
+        "prompt": "A photo of five backpacks on the ground",
+        "object": "backpack",
+        "object_plural": "backpacks",
+        "object_id": 24,
+        "scene": "on the ground",
+        "number": "five",
+        "int_number": 5,
+        "seed": 733673
+    },
+    {
+        "prompt": "A photo of five cows",
+        "object": "cow",
+        "object_plural": "cows",
+        "object_id": 19,
+        "scene": "",
+        "number": "five",
+        "int_number": 5,
+        "seed": 944479
+    },
+    {
+        "prompt": "A photo of ten cups",
+        "object": "cup",
+        "object_plural": "cups",
+        "object_id": 41,
+        "scene": "",
+        "number": "ten",
+        "int_number": 10,
+        "seed": 788124
+    },
+    {
+        "prompt": "A photo of seven cell phones on the grass",
+        "object": "cell phone",
+        "object_plural": "cell phones",
+        "object_id": 67,
+        "scene": "on the grass",
+        "number": "seven",
+        "int_number": 7,
+        "seed": 110583
+    }
+]

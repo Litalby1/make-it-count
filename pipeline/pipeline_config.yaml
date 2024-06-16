@@ -1,0 +1,39 @@
+pipeline:
+  output_path: outputs/
+  device: cuda
+  
+  phase1_type: 'dbscan_mask' # options: dbscan_mask, random_mask
+  phase2_type: 'ours_counting_loss' # options: ours_counting_loss, vanilla
+
+mask_creation:
+  dbscan_mask:
+    gradual_padding: True
+    unet_checkpoint_path: pipeline/mask_extraction/relayout_weights/relayout_checkpoint.pth
+  random_mask:
+    shape: "circle" # options: circle, square
+
+counting_model:
+  use_ddpm: True
+  num_inference_steps: 50
+
+  attention_store:
+    cross_attention_dim: 32
+    save_timesteps: [1, 5, 10, 15, 20, 25, 30, 40, 49]
+
+  self_attention_masking:
+    start_step: 0
+    end_step: 10
+    enable: True
+
+  loss:
+      sg_t_start: 0
+      sg_t_end: 25
+      scale_factor: 50
+      scale_ranges: [ [ 1, 0.5, 50 ] ] # will be linspace of [start_val, end_val, num_steps]
+      thresholds: { 0: 1.3, 10: 1.2, 20: 1.15 }
+      max_refinement_steps: 20
+      cross_attention_agg_layers: [ 'up', 'mid', 'down' ]
+      cross_attn_loss_type: 'bce_logits'  # options: bce_logits, bce
+      cross_loss_weight: 1
+      cross_attn_bce_pos_wt: 10
+      cross_loss_step_range: [ 0, 50 ]

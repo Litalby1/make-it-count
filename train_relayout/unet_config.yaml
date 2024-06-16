@@ -1,0 +1,39 @@
+# Configuration for U-Net ReLayout training for Under-generation
+model:
+  in_channels: 9
+  out_channels: 10
+  init_features: 128
+
+training:
+  device: "cuda"  # Device to use for training, or "cpu" if no CUDA available
+  lr: 0.000008  # Learning rate
+  lr_decay: 1  # Learning rate decay factor
+  step_size: 200  # Step size for learning rate decay
+  num_epochs: 100  # Number of epochs to train
+  batch_size: 32  # Batch size for training
+  patience: 10  # Patience for early stopping
+  min_delta: 0.01  # Minimum change in loss for early stopping
+  shuffle: False  # Whether to shuffle training data
+  exp_name: "train_relayout_replicate"  # Experiment name for logging
+  checkpoint_interval: 20  # Interval for saving model checkpoints
+
+augmentation:
+  horizontal_flip: True  # Whether to apply horizontal flip augmentation
+  shuffle_channels: True  # Whether to apply channel shuffle augmentation
+
+loss:
+  dice_smooth: 0.00001  # Smoothing factor for Dice loss
+  last_channel_weights: 1
+  mask_channel_weights: 1
+  intersection_penalty: 0.25
+  dice_penalty: 1
+  intersection_loss: True
+
+paths:
+  train_data_dir: ["/home/litalby/data/train_data/combined_for_release/train"]
+  test_data_dir: ["/home/litalby/data/train_data/combined_for_release/test"]
+  checkpoint_dir: "/home/litalby/checkpoints"  # Directory for saving model checkpoints
+
+visualization:
+  visualize: True  # Whether to visualize predictions
+  wandb: False  # Whether to log metrics to Weights & Biases
