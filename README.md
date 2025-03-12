@@ -1,6 +1,8 @@
 
-# Make It Count: Text-to-Image Generation with an Accurate Number of Objects
-Despite the unprecedented success of text-to-image diffusion models, controlling the number of depicted objects using text is surprisingly hard. This is important for various applications from technical documents, to children’s books to illustrating cooking recipes. Generating object-correct counts is fundamentally challenging because the generative model needs to keep a sense of separate identity for every instance of the object, even if several objects look identical or overlap, and then carry out a global computation implicitly during generation. It is still unknown if such representations exist. To address count-correct generation, we first identify
+# Make It Count: Text-to-Image Generation with an Accurate Number of Objects (CVPR 2025)
+> **Lital Binyamin, Yoad Tewel, Hilit Segev, Eran Hirsch, Royi Rassin, Gal Chechik**
+> 
+> Despite the unprecedented success of text-to-image diffusion models, controlling the number of depicted objects using text is surprisingly hard. This is important for various applications from technical documents, to children’s books to illustrating cooking recipes. Generating object-correct counts is fundamentally challenging because the generative model needs to keep a sense of separate identity for every instance of the object, even if several objects look identical or overlap, and then carry out a global computation implicitly during generation. It is still unknown if such representations exist. To address count-correct generation, we first identify
 features within the diffusion model that can carry the object identity information.
 We then use them to separate and count instances of objects during the denoising
 process and detect over-generation and under-generation. We fix the latter by
@@ -10,6 +12,16 @@ with correct object count. Our approach, CountGen, does not depend on external
 source to determine object layout, but rather uses the prior from the diffusion
 model itself, creating prompt-dependent and seed-dependent layouts. Evaluated on
 two benchmark datasets, we find that CountGen strongly outperforms the count accuracy of existing baselines.
+
+<a href="https://make-it-count-paper.github.io/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=red" height=20.5></a> 
+<a href="https://arxiv.org/abs/2406.10210"><img src="https://img.shields.io/badge/arXiv-2406.10210-b31b1b.svg" height=20.5></a>
+
+<p align="center">
+<img src="figures/teaser.jpg" width="800px"/>
+</p>
+
+## Description  
+Official implementation of our "Make It Count: Text-to-Image Generation with an Accurate Number of Objects" paper.
 
 
 ## Setup
@@ -151,3 +163,14 @@ In the directory with images, each image should have the following name format: 
 * `{class_name}` : a string, representing the class that is to be generated (e.g., donut).
 * `{...}` : this is optional and can contain whatever, such as the prompt (e.g., A_photo_of_four_donuts_on_the_road).
 
+## Citation
+
+If you use this code for your research, please cite our paper:
+```
+@article{binyamin2024count,
+    title={Make It Count: Text-to-Image Generation with an Accurate Number of Objects},
+    author={Binyamin, Lital and Tewel, Yoad and Segev, Hilit and Hirsch, Eran and Rassin, Royi and Chechik, Gal},
+    journal={arXiv preprint arXiv:2406.10210},
+    year={2024}
+  }
+```
